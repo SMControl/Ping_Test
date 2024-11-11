@@ -1,4 +1,7 @@
 # Ping_Test
+
+THIS IS BROKEN FOR NOW
+
 Runs ping to a host and keeps a log stored of it
 
 Run and type in host name to ping
