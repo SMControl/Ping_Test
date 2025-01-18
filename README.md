@@ -1,15 +1,7 @@
 # Ping_Test
 
-THIS IS BROKEN FOR NOW
-
-Runs ping to a host and keeps a log stored of it
-
-Run and type in host name to ping
-It will set job to ping that host every second and log it to a file in C:\winsm\pingtest
-It will separate results out by days and delete log files oder than 30 days.
-
-To stop, run script again and tell it to stop or reboot machine.
+Pings POS1-4 every 10 seconds and shows status
 
 ```
-irm https://raw.githubusercontent.com/SMControl/Ping_Test/main/Ping_Test.ps1 | iex
+irm https://raw.githubusercontent.com/SMControl/Ping_Test/refs/heads/main/gping.ps1 | iex
 ````
